@@ -1,0 +1,10 @@
+name: shinyapp-test
+title:
+username: jobs-george
+account: jobs-george
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10840868
+bundleId: 8077430
+url: https://jobs-george.shinyapps.io/shinyapp-test/
+version: 1
