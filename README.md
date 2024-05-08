@@ -1,2 +1,3 @@
-# shinyapp-test
-Testing hosting on Shiny Apps IO
+# Shiny App Hosting
+
+Example app for hosting on https://www.shinyapps.io/
